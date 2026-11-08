@@ -29,7 +29,7 @@ El proyecto cuenta con al menos dos controladores propios que agrupan tres endpo
 
 
 ### 1. Endpoint /proyecto
-![Prueba de proyecto](img/image.png)
+![Prueba de proyecto](img/proyecto.png)
 
 ### 2. Endpoint /misMaterias
 ![Prueba de materias](img/estado.png)
