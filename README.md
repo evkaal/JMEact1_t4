@@ -27,10 +27,12 @@ El proyecto cuenta con al menos dos controladores propios que agrupan tres endpo
 
 ## Pruebas en bruno con los links de la vps
 
-![Prueba con el link http://148.113.144.30:8100/proyecto](img/image.png)
 
+### 1. Endpoint /proyecto
+![Prueba de proyecto](img/image.png)
 
-![Prueba con el link http://148.113.144.30:8100/misMaterias](img/estado.png)
+### 2. Endpoint /misMaterias
+![Prueba de materias](img/estado.png)
 
-
-![Prueba con el link http://148.113.144.30:8100/estado](img/misMaterias.png)
+### 3. Endpoint /estado
+![Prueba de estado](img/misMaterias.png)
