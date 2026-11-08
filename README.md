@@ -13,10 +13,10 @@
 El proyecto cuenta con al menos dos controladores propios que agrupan tres endpoints principales:
 
 1. **`EjemploController.java`**
-   * `GET /eduardo/proyecto` -> Regresa el identificador del proyecto y autor.
+   * `GET /proyecto` -> Regresa el identificador del proyecto y autor.
 2. **`DetallesController.java`**
-   * `GET /eduardo/materias` -> Regresa un listado simulado de materias de la carrera.
-   * `GET /eduardo/estado` -> Regresa un objeto JSON con el estado actual del servicio.
+   * `GET /materias` -> Regresa un listado simulado de materias de la carrera.
+   * `GET /estado` -> Regresa un objeto JSON con el estado actual del servicio.
 
 ## Enlaces de Acceso y Pruebas
 
