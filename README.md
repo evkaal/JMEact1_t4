@@ -19,7 +19,7 @@ El proyecto cuenta con al menos dos controladores propios que agrupan tres endpo
    * `GET /eduardo/estado` -> Regresa un objeto JSON con el estado actual del servicio.
 
 ## Enlaces de Acceso y Pruebas
-* **Repositorio de GitHub:** https://github.com/evkaal/JMEact1_t4.git
+
 * **Proyecto en producción (VPS):**
   * Proyecto: `http://148.113.144.30:8100/proyecto`
   * Materias: `http://148.113.144.30:8100/misMaterias`
